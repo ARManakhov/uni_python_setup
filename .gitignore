@@ -375,3 +375,7 @@ pip-selfcheck.json
 /todo/bml_video/video_frames/
 /todo/bml_video/video.webm
 /todo/bml_video/video_frames_small/
+/todo/bml_video/output_video.avi
+/todo/bml_video/codes.csv
+/todo/bml_video/sequence.csv
+/todo/bml_video/video_frames_bw/
